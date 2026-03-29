@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hyatt, Johnston and Hansen",
+    "features": ["kittens"],
+    "users": ["1"],
+    "id": "1"
+  },
+  {
+    "name": "Tremblay, Davis and West",
+    "features": ["random-number"],
+    "users": ["1", "2"],
+    "id": "2"
+  },
+  {
+    "name": "Stracke, Gutmann and Goldner",
+    "features": [],
+    "users": ["3"],
+    "id": "3"
+  },
+  {
+    "name": "Romaguera, Ward and Lubowitz",
+    "features": ["company"],
+    "users": ["4", "1"],
+    "id": "4"
+  },
+  {
+    "name": "Hirthe and Sons",
+    "features": ["company"],
+    "users": ["1"],
+    "id": "5"
+  },
+  {
+    "name": "Feest, Schultz and Kemmer",
+    "features": [],
+    "users": [],
+    "id": "6"
+  },
+  {
+    "name": "Ondricka, Mann and Grady",
+    "features": [],
+    "users": [],
+    "id": "7"
+  }
+]
